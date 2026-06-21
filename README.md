@@ -304,8 +304,7 @@ GDI-Plus-Custom-Rendering-Engine/
 
 ## Author
 
-**eryks23**
-GitHub: [https://github.com/eryks23](https://github.com/eryks23)
+GitHub: [@eryks23](https://github.com/eryks23)
 Repository: [https://github.com/eryks23/GDI-Plus-Custom-Rendering-Engine](https://github.com/eryks23/GDI-Plus-Custom-Rendering-Engine)
 
 ---
